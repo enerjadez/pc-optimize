@@ -1,0 +1,12 @@
+Windows Optimize
+================
+
+Copy this whole folder to the other PC. Keep the files together.
+
+1. Double-click PREVIEW.bat     (optional - plan only)
+2. Double-click APPLY.bat       (Yes on UAC, then Y)
+3. Reboot once
+
+Undo on that same PC: RESTORE.bat
+
+Does not disable Defender, Firewall, Windows Update, audio, or core Windows.
